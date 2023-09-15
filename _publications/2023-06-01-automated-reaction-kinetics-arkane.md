@@ -1,0 +1,20 @@
+---
+title: "Automated reaction kinetics and network exploration (Arkane): A statistical mechanics, thermodynamics, transition state theory, and master equation software"
+collection: publications
+permalink: /publication/2023-06-01-automated-reaction-kinetics-arkane
+excerpt: 'We introduce Arkane, an open-source statistical mechanics software designed to compute thermodynamic properties and reaction rate coefficients of chemical species over molecular potential energy surfaces (PES). It can account for collisional energy transfer effects and provides estimates where quantum chemistry data is unavailable. The software supports multiple electronic structure computation tools (e.g., Gaussian, Molpro, Orca). Notable features of Arkane include handling various internal rotation modes, considering quantum tunneling effects, and computations using transition state theory and RRKM. Arkane output includes thermodynamic properties with energy corrections, and it offers automated PES exploration and sensitivity analysis. The software is part of the RMG-Py suite and available on GitHub.<br/><img src="/images/rmg.png" width="200" height="200">'
+date: 2023-06-01
+venue: 'International Journal of Chemical Kinetics'
+paperurl: 'https://onlinelibrary.wiley.com/doi/full/10.1002/kin.21637'
+citation: 'Grinberg Dana, Alon; Johnson, Matthew S; Allen, Joshua W; Sharma, Sandeep; Raman, Sumathy; Liu, Mengjie; Gao, Connie W; Grambow, Colin A; Goldman, Mark J; Ranasinghe, Duminda S; Gillis, Ryan J; Payne, A Mark; Li, Yi‐Pei; Dong, Xiaorui; Spiekermann, Kevin A; Wu, Haoyang; Dames, Enoch E; Buras, Zachary J; Vandewiele, Nick M; Yee, Nathan W; Merchant, Shamel S; Buesser, Beat; Class, Caleb A; Goldsmith, Franklin; West, Richard H; Green, William H. (2023). &quot;Automated reaction kinetics and network exploration (Arkane): A statistical mechanics, thermodynamics, transition state theory, and master equation software.&quot; <i>International Journal of Chemical Kinetics</i>. 55(6). 300-323.'
+---
+Abstract
+
+The open-source statistical mechanics software described here, Arkane–Automated Reaction Kinetics and Network Exploration–facilitates computations of thermodynamic properties of chemical species, high-pressure limit reaction rate coefficients, and pressure-dependent rate coefficient over multi-well molecular potential energy surfaces (PES) including the effects of collisional energy transfer on phenomenological kinetics. Arkane can use estimates to fill in information for molecules or reactions where quantum chemistry information is missing. The software solves the internal energy master equation for complex unimolecular reaction systems. Inputs to the software include converged electronic structure computations performed by the user using a variety of supported software packages (Gaussian, Molpro, Orca, TeraChem, Q-Chem, Psi4). The software outputs high-pressure limit rate coefficients and pressure-dependent phenomenological rate coefficients, as well as computed thermodynamic properties (enthalpy, entropy, and constant pressure heat capacity) with added energy corrections. Some of the key features of Arkane include treatment of 1D, 2D or ND hindered internal rotation modes, treatment of free internal rotation modes, quantum tunneling effect consideration, transition state theory (TST) and Rice-Ramsperger-Kassel-Marcus (RRKM) rate coefficient computations, master equation solution with four implemented methods, inverse-Laplace transform of high-pressure limit rate coefficients into the energy domain, energy corrections based on bond-additivity or isodesmic reactions, automated and efficient PES exploration, and PES sensitivity analysis. The present work describes the design of Arkane, how it should be used, and refers to the theory that it employs. Arkane is distributed via the RMG-Py software suite.
+
+![](/images/rmg.png)
+
+[Download paper here](https://onlinelibrary.wiley.com/doi/full/10.1002/kin.21637)
+
+[Access our GitHub Repo](https://github.com/ReactionMechanismGenerator/RMG-Py)
+
