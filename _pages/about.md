@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am Oscar Wu, currently a Ph.D. candidate in Prof. William H. [Green's group](https://greengroup.mit.edu/oscar-haoyang-wu) at MIT. My thesis is about  
+I am Oscar Wu, currently a Ph.D. candidate in Prof. William H. [Green's group](https://greengroup.mit.edu/oscar-haoyang-wu) at MIT. My thesis is about chemical engineering and computation. 
 
 Update
 =====
