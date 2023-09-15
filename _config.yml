@@ -82,7 +82,9 @@ analytics:
 author:
   name             : "Oscar Wu"
   avatar           : "profile.png"
-  bio              : "PhD Candidate @ MIT\n\n Chemical Engineering and Computation\n\n An enthusiastic learner, critical thinker, and determined dream chaser."
+  bio              : "PhD Candidate @ MIT
+  Chemical Engineering and Computation
+  An enthusiastic learner, critical thinker, and determined dream chaser."
   location         : "Cambridge, MA"
   employer         : 
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
