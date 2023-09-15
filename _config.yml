@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Oscar Wu  / Personal Website"
+title                    : "Oscar Wu  / Homepage"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -83,8 +83,8 @@ author:
   name             : "Oscar Wu"
   avatar           : "profile.png"
   bio              : "An enthusiastic learner, critical thinker, and determined dream chaser."
-  location         : "Cambridge MA, USA"
-  employer         :
+  location         : "MIT"
+  employer         : "Ph.D. Candidate. Chemical Engineering and Computation."
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=oSoYMvkAAAAJ&hl=en"
   email            :
